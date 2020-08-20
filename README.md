@@ -6,4 +6,4 @@
 
 **2、浏览器扫描下方二维码安装**
 
-![avatar](../TaskManagementDownload/assets/qrcode.png)
+![avatar](/assets/qrcode.png)
