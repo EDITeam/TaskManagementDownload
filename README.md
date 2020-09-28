@@ -2,7 +2,7 @@
 
 **1、点击下方链接下载安装**
 
-[点击下载](https://github.com/EDITeam/TaskManagementDownload/releases/download/v0.1.0/v0.1.0.apk)
+[点击下载](https://github.com/EDITeam/TaskManagementDownload/releases/download/v0.1.1/v0.1.1.apk)
 
 **2、浏览器扫描下方二维码安装**
 
